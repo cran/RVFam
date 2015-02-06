@@ -1,0 +1,7 @@
+import(coxme)
+import(kinship2)
+import(lme4)
+import(survival)
+import(MASS)
+import(Matrix)
+export(coxph.EC,coxph.ped,gc.fun,glmm.binped,glmm.EC,lme.EC,lme.ped)
